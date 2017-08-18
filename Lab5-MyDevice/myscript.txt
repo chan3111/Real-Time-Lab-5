@@ -1,0 +1,6 @@
+#! /bin/sh
+
+echo status value > /dev/example
+echo alert  1 > /dev/example
+echo status closed > /dev/example
+echo alert  2 > /dev/example
